@@ -1,0 +1,44 @@
+LED_1.o: \
+ D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/LED_1.c \
+ D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/LED_1.h \
+ D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_continuous.h \
+ D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_continuous.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h \
+ D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/LED_1_types.h \
+ D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/variants/standard/pins_arduino.h \
+ D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/LED_1_private.h
+
+D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/LED_1.h:
+
+D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_continuous.h:
+
+D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h:
+
+D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/LED_1_types.h:
+
+D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/variants/standard/pins_arduino.h:
+
+D:/DO_AN/tai_lieu/Introduction_to_Model_Based_System_Design/Introduction_to_Model_Based_System_Design/OWN/Lecture_18/LED_1_ert_rtw/LED_1_private.h:
